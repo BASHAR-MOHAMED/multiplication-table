@@ -34,11 +34,28 @@ The program contains two main functions:
    
 2. Run the program:
 
-                        Multiplication table from 1 to 10
+  ```
+                          Multiplication table from 1 to 10
 
-    1       2       3       4       5       6       7       8       9       10
+        1       2       3       4       5       6       7       8       9       10
+------------------------------------------------------------------------------------
+1   |   1       2       3       4       5       6       7       8       9       10
+2   |   2       4       6       8       10      12      14      16      18      20
+...
+10  |   10      20      30      40      50      60      70      80      90      100
+```
 
 
 ## 🧑‍💻 Author
 
-Bashar Mohamed
+Name: Bashar Mohamed
+Skills:
+
+Advanced in C++
+
+Familiar with Object-Oriented Programming and Data Structures
+
+Actively solving problems using clean, structured code
+Goal: Becoming a Full Stack Desktop Developer 💻
+
+
